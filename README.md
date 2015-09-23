@@ -198,7 +198,7 @@ However, inline comments can be useful in certain scenarios:
 
 Use `camelCase` (with a leading lowercase character) to name all variables, methods, and object properties.
 
-Use `CamelCase` (with a leading uppercase character) to name all classes. _(This style is also commonly referred to as `PascalCase`, `CamelCaps`, or `CapWords`, among [other alternatives][camel-case-variations].)_
+Use `CamelCase` (with a leading uppercase character) to name all classes and constructor functions. _(This style is also commonly referred to as `PascalCase`, `CamelCaps`, or `CapWords`, among [other alternatives][camel-case-variations].)_
 
 _(The **official** CoffeeScript convention is camelcase, because this simplifies interoperability with JavaScript. For more on this decision, see [here][coffeescript-issue-425].)_
 
